@@ -3,6 +3,8 @@
     <img src="./img/sc.png">
 </div>
 
+Download the extension from [Mozilla store](https://addons.mozilla.org/en-US/firefox/addon/chen-vibing/).
+
 > [!IMPORTANT]
 > This is an inspired project and only uses the original as its foundation.
 
