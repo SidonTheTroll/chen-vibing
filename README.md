@@ -1,5 +1,5 @@
 <div align=center>
-    <h1> Vibing Chen </h1>
+    <h1>Chen Vibing</h1>
     <img src="./img/sc.png">
 </div>
 
